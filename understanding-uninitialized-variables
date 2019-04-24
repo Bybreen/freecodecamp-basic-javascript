@@ -1,0 +1,10 @@
+Example
+var a = 5;
+var b = 10;
+var c = "I am a;
+
+------------------
+
+var a = a + 1;
+var b = b + 5;
+var c = "String!";
