@@ -1,0 +1,9 @@
+Example
+
+var product = 8 * 0;
+
+---------------------
+
+var product = 8 * 10;
+
+// The outcome was 80
