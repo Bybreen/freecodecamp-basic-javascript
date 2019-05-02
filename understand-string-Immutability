@@ -1,0 +1,6 @@
+var myStr = "Jello World";
+
+myStr = "H";
+----------------------------
+
+myStr = "Hello World";
