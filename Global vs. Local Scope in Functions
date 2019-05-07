@@ -1,0 +1,10 @@
+// Add a local variable to myOutfit function to override the value of outerWear with "sweater".
+
+var outerWaear = "Teeshirt"; 
+
+function myOutit() {
+var myOutfit = "sweater";
+return "sweater";
+return "outerWear";
+}
+myOutfit();
